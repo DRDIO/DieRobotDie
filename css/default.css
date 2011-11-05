@@ -1,0 +1,59 @@
+body {
+    background: #353826;
+    font: normal 14px Arial, sans-serif;    
+    text-align: center;
+    margin: 0;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    border-bottom: 1px dotted #777;
+    color: #ECD636; 
+}
+
+#page {
+    display: block;
+    width: 960px;
+    position: relative;
+    margin: auto;
+}
+
+#body {
+    display: block;
+    background: url(../image/splash.png) no-repeat 50% -124px;
+	width: 960px;
+	height: 480px;
+}
+
+#contact {
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 0;
+    margin-left: -70px;
+    margin-top: 180px;    
+    color: #fff;   
+    width: 420px;
+    padding: 24px 8px 8px;
+    text-align: left;
+}
+
+#contact h1, #contact h2 {
+    line-height: 1em;
+    margin: 0;
+}
+
+#contact h2 {
+    font-size: 1.3em;   
+}
+
+#contact p {
+    line-height: 1.4em;    
+    margin: 1em 0 0;
+}
+
+#contact article {
+    display: block;
+    margin-top: 1.5em;    
+}
