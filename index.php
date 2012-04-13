@@ -49,7 +49,7 @@
                 <article>
                     <h2>Give Us a Holler</h2>
                     <p>
-                        We have a busy schedule leading up to SXSW 2010, but we are always
+                        We are always
                         interested in meeting new clients with great ideas.  Follow us on
                         Twitter at 
                         <a href="http://twitter.com/drdio" title="Visit Twitter!" target="_blank">@DRDio</a> 
