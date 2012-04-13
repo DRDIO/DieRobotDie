@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>DieRobotDie.com | Austin, TX Based Web Design and Consulting</title>
+        <title>DRD.IO | Austin, TX Based Web Design and Consulting</title>
             
         <link rel="stylesheet" href="/css/jquery.min.css" />
         <link rel="stylesheet" href="/css/default.css" />
@@ -52,9 +52,9 @@
                         We have a busy schedule leading up to SXSW 2010, but we are always
                         interested in meeting new clients with great ideas.  Follow us on
                         Twitter at 
-                        <a href="http://twitter.com/dierobotdie" title="Visit Twitter!" target="_blank">@DieRobotDie</a> 
+                        <a href="http://twitter.com/drdio" title="Visit Twitter!" target="_blank">@DRDio</a> 
                         or drop us a message at 
-                        <a href="mailto:create@dierobotdie.com" title="Email Us!" target="_blank">create@dierobotdie.com</a>
+                        <a href="mailto:sayhello@drd.io" title="Email Us!" target="_blank">sayhello@drd.io</a>
                         and we'll work something up!
                     </p>
                 </article>                        
